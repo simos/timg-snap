@@ -138,7 +138,7 @@ parts:
     source: https://github.com/hzeller/timg.git
     #source-type:
     #source-branch:
-    #source-tag: v1.4.0
+    source-tag: v1.4.1
     #source-depth:
     override-pull: |
       set -o nounset
